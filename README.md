@@ -22,3 +22,8 @@
 | search | ID ile kişi arar | search 1 |
 | delete | ID ile kişi siler | delete 1 |
 | export | Kişileri dışa aktarır | export yedek.txt |
+
+V2 GÖREVLERİ:
+1. ID format kontrolü eklendi (sadece rakam kabul edilir)
+2. Telefon numarası doğrulaması eklendi (7-15 karakter, sadece rakam)
+3. "help" komutu eklendi (tüm komutları listeler)
